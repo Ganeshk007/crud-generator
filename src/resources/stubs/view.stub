@@ -2,10 +2,10 @@
 <html>
 <head>
 <title>
-{{ $class }}
+{{ class }}
 </title>
 </head>
 <body>
-<p>{{ $class }}</p>
+<p>{{ class }}</p>
 </body>
 </html>
